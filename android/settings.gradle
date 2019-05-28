@@ -1,0 +1,3 @@
+rootProject.name = 'AExample_RN'
+
+include ':app'
